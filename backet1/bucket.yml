@@ -1,5 +1,6 @@
 flows:
-  ff8e69a4-8116-44a9-8bf7-2672477734a7: {ver: 1, file: test.snapshot, comments: '',
-    author: anonymous, created: 1720163604869, flowName: test, flowDesc: ''}
+  ff8e69a4-8116-44a9-8bf7-2672477734a7: {ver: 2, file: test.snapshot, comments: changed
+      invoke http position, author: anonymous, created: 1720167484142, flowName: test,
+    flowDesc: ''}
 layoutVer: 1
 bucketId: 37264f6e-a0ad-4218-87ca-30fc613cc2fd

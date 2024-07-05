@@ -166,8 +166,8 @@
         "name" : "test",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 864.0,
-          "y" : -80.0
+          "x" : 848.0,
+          "y" : -88.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -190,8 +190,8 @@
           "name" : "InvokeHTTP",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -336.0,
-            "y" : 32.0
+            "x" : -304.0,
+            "y" : 0.0
           },
           "properties" : {
             "Request Content-Encoding" : "DISABLED",
