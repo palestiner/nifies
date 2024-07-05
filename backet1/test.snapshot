@@ -169,7 +169,36 @@
           "x" : 848.0,
           "y" : -88.0
         },
-        "processGroups" : [ ],
+        "processGroups" : [ {
+          "comments" : "",
+          "componentType" : "PROCESS_GROUP",
+          "connections" : [ ],
+          "controllerServices" : [ ],
+          "defaultBackPressureDataSizeThreshold" : "1 GB",
+          "defaultBackPressureObjectThreshold" : 10000,
+          "defaultFlowFileExpiration" : "0 sec",
+          "executionEngine" : "INHERITED",
+          "flowFileConcurrency" : "UNBOUNDED",
+          "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
+          "funnels" : [ ],
+          "groupIdentifier" : "4a693096-6c54-3083-9646-1e8b827766ba",
+          "identifier" : "8fbf2f0e-0dd3-3b99-9705-22b96b995c78",
+          "inputPorts" : [ ],
+          "instanceIdentifier" : "81fd74d9-0190-1000-4013-35a5fcfaa566",
+          "labels" : [ ],
+          "maxConcurrentTasks" : 1,
+          "name" : "test inner PG",
+          "outputPorts" : [ ],
+          "position" : {
+            "x" : -1144.0,
+            "y" : -328.0
+          },
+          "processGroups" : [ ],
+          "processors" : [ ],
+          "remoteProcessGroups" : [ ],
+          "scheduledState" : "ENABLED",
+          "statelessFlowTimeout" : "1 min"
+        } ],
         "processors" : [ {
           "autoTerminatedRelationships" : [ "No Retry", "Retry", "Original", "Failure" ],
           "backoffMechanism" : "PENALIZE_FLOWFILE",
