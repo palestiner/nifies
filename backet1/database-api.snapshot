@@ -1798,8 +1798,8 @@
           "name" : "SELECT FROM MSSQL",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -104.0,
-            "y" : 24.0
+            "x" : 0.0,
+            "y" : 0.0
           },
           "properties" : {
             "esql-max-rows" : "0",

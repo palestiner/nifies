@@ -1,6 +1,7 @@
 flows:
-  07e37546-ca26-48db-adac-3ca6ed3237c5: {ver: 1, file: database-api.snapshot, comments: '',
-    author: anonymous, created: 1720169142932, flowName: database-api, flowDesc: ''}
+  07e37546-ca26-48db-adac-3ca6ed3237c5: {ver: 2, file: database-api.snapshot, comments: changed
+      position "SELECT FROM MSSQL" element, author: anonymous, created: 1720169467101,
+    flowName: database-api, flowDesc: ''}
   ff8e69a4-8116-44a9-8bf7-2672477734a7: {ver: 3, file: test.snapshot, comments: added
       inner test pg, author: anonymous, created: 1720167810583, flowName: test, flowDesc: ''}
   25de6761-52d5-42ee-85ae-1e0b5c419ac3: {ver: 1, file: rest_test_of_database.snapshot,
