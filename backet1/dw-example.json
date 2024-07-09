@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1720528529788,
+    "description" : "",
+    "identifier" : "dw-example",
+    "lastModifiedTimestamp" : 1720528529788,
+    "name" : "dw example",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
