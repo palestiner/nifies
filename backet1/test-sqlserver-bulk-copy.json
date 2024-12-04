@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1733307153670,
+    "description" : "",
+    "identifier" : "test-sqlserver-bulk-copy",
+    "lastModifiedTimestamp" : 1733307153670,
+    "name" : "test-sqlserver-bulk-copy",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
